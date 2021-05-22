@@ -8,3 +8,4 @@ const greet = function (moto) {
 
 greetings("jojo");
 
+greetings("dojo");
