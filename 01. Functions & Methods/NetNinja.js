@@ -1,15 +1,10 @@
+function greetings(say) {
+    console.log(`Hey ${say}, hope you are doing well`);
+}
+
 const greet = function (moto) {
     console.log('hello ', moto);
 }
 
-greet("kuku");
+greetings("jojo");
 
-greet("jojo");
-
-greet("isas");
-
-const hello = "yahoo";
-
-console.log("hello", hello);
-
-console.log(hello.length)
