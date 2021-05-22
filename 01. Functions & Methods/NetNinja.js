@@ -4,12 +4,12 @@ const greet = function (moto) {
 
 greet("kuku");
 
-greet("alan");
+greet("jojo");
 
 greet("isas");
 
 const hello = "yahoo";
 
-console.log(hello.length);
+console.log("hello", hello);
 
-
+console.log(hello.length)
